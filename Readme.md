@@ -6,3 +6,8 @@ Quora is a platform that empowers people to learn from each other. On Quora, peo
 
 
 We present a project to classify sincere and insincere questions using different ML algorithms and ensembles with the use of different embedding. We have shown that logistic regression and TFIDF embedding technique perform best among others by giving an F1 Score of 0.6320.
+
+
+This repository contains a detailed report on this project along with its working code.
+
+Dataset link: https://www.kaggle.com/c/quora/data
